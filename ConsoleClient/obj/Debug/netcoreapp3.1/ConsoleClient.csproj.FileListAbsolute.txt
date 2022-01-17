@@ -26,3 +26,17 @@ C:\Users\Комрон\Desktop\Chat_C_Sharp\ConsoleClient\obj\Debug\netcoreapp3.1
 C:\Users\Комрон\Desktop\Chat_C_Sharp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
 C:\Users\Комрон\Desktop\Chat_C_Sharp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb
 C:\Users\Комрон\Desktop\Chat_C_Sharp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.genruntimeconfig.cache
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.exe
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.deps.json
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.json
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.dev.json
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.AssemblyReference.cache
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfo.cs
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.genruntimeconfig.cache

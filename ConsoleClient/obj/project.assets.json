@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Комрон\\Desktop\\Chat_C_Sharp\\ConsoleClient\\ConsoleClient.csproj",
+      "projectUniqueName": "C:\\Users\\Комрон\\Desktop\\Pr2\\pr2\\ConsoleClient\\ConsoleClient.csproj",
       "projectName": "ConsoleClient",
-      "projectPath": "C:\\Users\\Комрон\\Desktop\\Chat_C_Sharp\\ConsoleClient\\ConsoleClient.csproj",
+      "projectPath": "C:\\Users\\Комрон\\Desktop\\Pr2\\pr2\\ConsoleClient\\ConsoleClient.csproj",
       "packagesPath": "C:\\Users\\Комрон\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Комрон\\Desktop\\Chat_C_Sharp\\ConsoleClient\\obj\\",
+      "outputPath": "C:\\Users\\Комрон\\Desktop\\Pr2\\pr2\\ConsoleClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Комрон\\AppData\\Roaming\\NuGet\\NuGet.Config",

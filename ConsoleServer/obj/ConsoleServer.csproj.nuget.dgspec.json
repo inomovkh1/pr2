@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Комрон\\Desktop\\Chat_C_Sharp\\ConsoleServer\\ConsoleServer.csproj": {}
+    "C:\\Users\\Комрон\\Desktop\\Pr2\\pr2\\ConsoleServer\\ConsoleServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Комрон\\Desktop\\Chat_C_Sharp\\ConsoleServer\\ConsoleServer.csproj": {
+    "C:\\Users\\Комрон\\Desktop\\Pr2\\pr2\\ConsoleServer\\ConsoleServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Комрон\\Desktop\\Chat_C_Sharp\\ConsoleServer\\ConsoleServer.csproj",
+        "projectUniqueName": "C:\\Users\\Комрон\\Desktop\\Pr2\\pr2\\ConsoleServer\\ConsoleServer.csproj",
         "projectName": "ConsoleServer",
-        "projectPath": "C:\\Users\\Комрон\\Desktop\\Chat_C_Sharp\\ConsoleServer\\ConsoleServer.csproj",
+        "projectPath": "C:\\Users\\Комрон\\Desktop\\Pr2\\pr2\\ConsoleServer\\ConsoleServer.csproj",
         "packagesPath": "C:\\Users\\Комрон\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Комрон\\Desktop\\Chat_C_Sharp\\ConsoleServer\\obj\\",
+        "outputPath": "C:\\Users\\Комрон\\Desktop\\Pr2\\pr2\\ConsoleServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Комрон\\AppData\\Roaming\\NuGet\\NuGet.Config",

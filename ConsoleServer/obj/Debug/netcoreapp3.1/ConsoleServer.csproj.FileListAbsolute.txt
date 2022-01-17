@@ -26,3 +26,17 @@ C:\Users\Комрон\Desktop\Chat_C_Sharp\ConsoleServer\obj\Debug\netcoreapp3.1
 C:\Users\Комрон\Desktop\Chat_C_Sharp\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.AssemblyInfo.cs
 C:\Users\Комрон\Desktop\Chat_C_Sharp\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.csproj.CoreCompileInputs.cache
 C:\Users\Комрон\Desktop\Chat_C_Sharp\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.genruntimeconfig.cache
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\bin\Debug\netcoreapp3.1\ConsoleServer.exe
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\bin\Debug\netcoreapp3.1\ConsoleServer.deps.json
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\bin\Debug\netcoreapp3.1\ConsoleServer.runtimeconfig.json
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\bin\Debug\netcoreapp3.1\ConsoleServer.runtimeconfig.dev.json
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\bin\Debug\netcoreapp3.1\ConsoleServer.dll
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\bin\Debug\netcoreapp3.1\ConsoleServer.pdb
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.csproj.AssemblyReference.cache
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.AssemblyInfoInputs.cache
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.AssemblyInfo.cs
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.csproj.CoreCompileInputs.cache
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.dll
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.pdb
+C:\Users\Комрон\Desktop\Pr2\pr2\ConsoleServer\obj\Debug\netcoreapp3.1\ConsoleServer.genruntimeconfig.cache
